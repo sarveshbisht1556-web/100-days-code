@@ -8,9 +8,9 @@ int main ()
  
   printf("Enter a natural number 'n' to get the sum of first 'n' natural number , n : ");
 
-  scanf("%d",&n);    //Taking input form the user.
+  scanf("%d",&n);    //Taking input from the user.
   
-  sum = n/2*(n+1) ;  //Greneral formula fro the sum of n natural numbers.
+  sum = n/2*(n+1) ;  //Greneral formula for the sum of n natural numbers.
   
   printf("\nSUM = %d",sum);  // Displaying output
  
