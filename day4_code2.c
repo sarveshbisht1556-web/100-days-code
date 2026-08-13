@@ -10,7 +10,7 @@ int main ()
 
   scanf("%d",&n);    //Taking input from the user.
   
-  sum = n/2*(n+1) ;  //Greneral formula for the sum of n natural numbers.
+  sum = n/2*(n+1) ;  //General formula for the sum of n natural numbers.
   
   printf("\nSUM = %d",sum);  // Displaying output
  
