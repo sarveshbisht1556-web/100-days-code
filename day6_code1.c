@@ -6,7 +6,7 @@
 int main()
 {
  
- int x ;
+ int x ;             //Declaring variable for input.
 
  printf("Input a number to check whether its odd or even :");  
  
