@@ -27,7 +27,7 @@ int main()
       printf(" ");
      }
     
-     for(int k= 5-i; k>=1; k--) //2nd Inner loop fro printing pattern'*'.
+     for(int k= 5-i; k>=1; k--) //2nd Inner loop for printing pattern'*'.
       {
        printf("*");
       }
