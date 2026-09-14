@@ -33,7 +33,7 @@ int main()
       }
      printf("\n");
     }
-  return 0;   //End of th program.
+  return 0;   //End of the program.
 }
   
      
