@@ -23,6 +23,12 @@ int main()
     printf("Enter number of terms(n): ");
     scanf("%d", &n);  //Taking input form the user.
 
+  if(n==1)
+  {
+    printf( "sum: %d", sum);
+  }
+  else
+ {
   //Iteration to calculate sum of n terms of the series.
     for (i = 2; i <= n; i++)
     {
@@ -30,7 +36,7 @@ int main()
     }
 
     printf("Approximate sum = %.2f", sum);    //Displaying output.
-
+  }
   return 0;
 }
 
