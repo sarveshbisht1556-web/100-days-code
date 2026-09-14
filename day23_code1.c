@@ -21,14 +21,14 @@ int main()
  float sum =0;
  
  printf("Enter a number 'n' to find sum of 'n' terms of the series: ");
- scanf("%d", &n);
+ scanf("%d", &n);   //Taking input form the user. 
  
  for(int i= 1; i<=n; i++)
   {
-   sum = sum + (float)(2*i)/((4*i)-1);
+   sum = sum + (float)(2*i)/((4*i)-1);   //sum of the series till n terms.
   }
 
-  printf("Approximate sum: %.2f", sum);
+  printf("Approximate sum: %.2f", sum);  //Displaying output.
  
  return 0;
 }   
