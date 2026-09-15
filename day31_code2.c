@@ -32,7 +32,7 @@ int main()
 
     printf("Reverse order:\n");
 
- //Reversing th eorder of input.
+ //Reversing the order of input.
 
     for(i = n-1; i >= 0; i--)
     {
