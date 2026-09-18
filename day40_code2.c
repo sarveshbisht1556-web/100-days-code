@@ -1,4 +1,4 @@
-//Q80: Multiply two matrices.
+//  Q80: Multiply two matrices.
 
 #include <stdio.h>
 
