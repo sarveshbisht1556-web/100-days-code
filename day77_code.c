@@ -1,4 +1,4 @@
-/*
+/*   
 Sample Test Cases:
 Input 1:
 Input File (input.txt): Hello World\nC programming
